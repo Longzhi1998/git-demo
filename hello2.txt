@@ -1,4 +1,4 @@
-fixed o github
+fixed on github
 
 
 在vscode进行了修改
